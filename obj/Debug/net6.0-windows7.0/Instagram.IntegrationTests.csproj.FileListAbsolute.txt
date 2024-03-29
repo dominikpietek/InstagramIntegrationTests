@@ -180,3 +180,5 @@ C:\Programs\Instagram\InstagramIntegrationTests\obj\Debug\net6.0-windows7.0\ref\
 C:\Programs\Instagram\InstagramIntegrationTests\bin\Debug\net6.0-windows7.0\NLog.dll
 C:\Programs\Instagram\InstagramIntegrationTests\bin\Debug\net6.0-windows7.0\NLog.Extensions.Logging.dll
 C:\Programs\Instagram\InstagramIntegrationTests\bin\Debug\net6.0-windows7.0\Nlog.config
+C:\Programs\Instagram\InstagramIntegrationTests\obj\Debug\net6.0-windows7.0\Instagram.IntegrationTests.sourcelink.json
+C:\Programs\Instagram\InstagramIntegrationTests\bin\Debug\net6.0-windows7.0\Bogus.dll

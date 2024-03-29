@@ -39,4 +39,8 @@
     <ProjectReference Include="..\Instagram\Instagram.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ReadmePhotos\" />
+  </ItemGroup>
+
 </Project>
